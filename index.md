@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Yoga Practice Record Tool
 
-You can use the [editor on GitHub](https://github.com/sunkin520/MyYogaPracticeRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a yoga practice recording tool, when you want to set a goal to exercise, or want to learn yoga but do not insist, you can use our tool to help you record and manage your yoga practice time.
+You can keep track of your mood, weather and location at each yoga practice. You can also keep track of what you learned while working with friends. When the training is over, you can view and collect your favorite practices to make yourself more enjoyable to practice yoga.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: sun778297ma@163.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunkin520/MyYogaPracticeRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
